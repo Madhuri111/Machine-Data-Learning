@@ -1,0 +1,10 @@
+7
+f[1]=='Good' and f[2]=='High', No
+f[1]=='Good' and f[2]=='Medium', No
+f[1]=='Good' and f[2]=='Low', Yes
+f[1]=='Average' and f[2]=='High', No
+f[1]=='Average' and f[2]=='Medium', Yes
+f[1]=='Average' and f[2]=='Low', Yes
+f[1]=='Bad', Yes
+
+

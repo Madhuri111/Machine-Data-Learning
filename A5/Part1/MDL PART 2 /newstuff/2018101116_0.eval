@@ -1,0 +1,18 @@
+
+Loading the model ...
+  input file   : newstuff/2018101116_0.pomdp
+
+Loading the policy ...
+  input file   : newstuff/2018101116_0.policy
+
+Simulating ...
+  action selection :  one-step look ahead
+
+-----------------------------------
+ #Simulations  | Exp Total Reward  
+-----------------------------------
+ 100             2.92232
+ 200             2.98367
+ 300             3.0785
+ 400             3.07554
+ 500             3.07844

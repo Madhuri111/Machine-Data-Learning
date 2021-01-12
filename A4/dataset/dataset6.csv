@@ -1,0 +1,13 @@
+\textbf{Sleep Pattern},\textbf{Junk Food Consumption},\textbf{Exercise daily},\textbf{Healthy}
+Irregular Sleep,High,Yes,No
+Irregular Sleep,Normal,No,No
+Irregular Sleep,Low,Yes,Yes
+Irregular Sleep,Low,No,Yes
+Good Sleep,High,Yes,Yes
+Good Sleep,Normal,No,No
+Good Sleep,Low,Yes,Yes
+Good Sleep,High,No,No
+Long Sleep,High,No,No
+Long Sleep,Normal,Yes,Yes
+Long Sleep,Low,Yes,Yes
+Long Sleep,Normal,No,Yes

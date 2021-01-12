@@ -1,0 +1,12 @@
+\textbf{Country},\textbf{Flu/Cough},\textbf{SFT},\textbf{Positive Case}
+China,Yes,Yes,Yes
+China,Yes,No,Yes
+China,No,Yes,Yes
+Italy,Yes,No,No
+Italy,Yes,Yes,Yes
+Italy,No,Yes,Yes
+India,Yes,Yes,Yes
+India,Yes,No,No
+India,No,No,No
+USA,No,Yes,Yes
+USA,Yes,No,No

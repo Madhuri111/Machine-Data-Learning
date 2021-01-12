@@ -1,0 +1,11 @@
+node=0 test node: go to node 1 if X[:, 2] <= 0.5 else to node 6.
+	node=1 test node: go to node 2 if X[:, 1] <= 1.5 else to node 5.
+		node=2 test node: go to node 3 if X[:, 1] <= 0.5 else to node 4.
+			node=3 leaf node.
+			node=4 leaf node.
+		node=5 leaf node.
+	node=6 test node: go to node 7 if X[:, 1] <= 0.5 else to node 10.
+		node=7 test node: go to node 8 if X[:, 0] <= 4.0 else to node 9.
+			node=8 leaf node.
+			node=9 leaf node.
+		node=10 leaf node.
